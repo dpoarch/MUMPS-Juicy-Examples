@@ -1,1 +1,1 @@
-# MUMPS-Juicy-Examples
+*Juicy MUMPS Examples*
